@@ -62,9 +62,6 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
-#UI Kit
-agora-rn-uikit/
-
 #built website
 dist/
 
